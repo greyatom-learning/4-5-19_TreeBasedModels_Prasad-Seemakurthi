@@ -1,5 +1,5 @@
 
-\# 4-5-19_TreeBasedModels_Prasad-Seemakurthi
+\# 4-5-19_TreeBasedModels_PrasadSeemakurthi
 
 
 ML Lecture with Prasad Seemakurthi on Machine Learning Models for Fraud Detection
